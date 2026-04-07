@@ -1,9 +1,5 @@
 # Hi, I'm Yingying 👋
 
-**AI Application and Agent Developer** | Turning AI capabilities into production-grade applications
-
----
-
 ## 🎯 Focus
 
 - **AI Application Productization** — From prototype to production with engineering rigor
