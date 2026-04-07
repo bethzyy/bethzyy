@@ -1,13 +1,10 @@
   # Hi, I'm Yingying 👋
 
-  **AI Application and Agent Developer** | Turning AI capabilities into production-grade applications     
-  
-  ---
+  **AI Application and Agent Developer** | Turning AI capabilities into production-grade applications       
 
   ## 🎯 Focus
 
-  - **AI Application Productization** — From prototype to production with engineering     
-  rigor
+  - **AI Application Productization** — From prototype to production with engineering 
   - **AI Agent Development** — Skills design, multi-agent collaboration, Agent runtime    
 
   ## 🔧 Tech Stack
@@ -22,13 +19,9 @@
   
   ## 📊 GitHub Stats
 
-  ![Stats](https://github-readme-stats.vercel.app/api?username=bethzyy&show_icons=true&the
-  me=default)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=bethzyy&show_icons=true&hid
+  e_title=true&hide_border=true)
 
   ## 📫 Contact
 
   📧 bethz@263.net | 💼 [LinkedIn](https://www.linkedin.com/in/yingying-zhao-97aa84192/)  
-
-  ---
-
-  > "The best way to predict the future is to build it." — Alan Kay
