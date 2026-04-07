@@ -1,16 +1,34 @@
-## Hi there 👋
+  # Hi, I'm Yingying 👋
 
-<!--
-**bethzyy/bethzyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **AI Application and Agent Developer** | Turning AI capabilities into production-grade applications     
+  
+  ---
 
-Here are some ideas to get you started:
+  ## 🎯 Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - **AI Application Productization** — From prototype to production with engineering     
+  rigor
+  - **AI Agent Development** — Skills design, multi-agent collaboration, Agent runtime    
+
+  ## 🔧 Tech Stack
+
+  ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)    
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)       
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)      
+  ![SAS](https://img.shields.io/badge/SAS-1E6EB5?logo=sas&logoColor=white)
+  ![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white)       
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+  
+  ## 📊 GitHub Stats
+
+  ![Stats](https://github-readme-stats.vercel.app/api?username=bethzyy&show_icons=true&the
+  me=default)
+
+  ## 📫 Contact
+
+  📧 bethz@263.net | 💼 [LinkedIn](https://www.linkedin.com/in/yingying-zhao-97aa84192/)  
+
+  ---
+
+  > "The best way to predict the future is to build it." — Alan Kay
