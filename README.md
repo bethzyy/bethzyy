@@ -1,10 +1,10 @@
-# Hi, I'm Yingying 👋
+# Hi, I'm Yingying
 
-## 🎯 Focus
+## 🎯 Introduction
 
-- **AI Application Productization** — From prototype to production with engineering rigor
-- **AI Agent Development** — Skills design, multi-agent collaboration, Agent runtime
+本项目集合包含 26 个 AI 应用，覆盖 Skills、Agent 运行时、多 Agent 协作系统、MCP 协议集成、LLM内容生成等核心方向。架构层面实现了 4-8 级 Fallback 高可用机制（99%+ 可用性）、智能缓存（50-70 倍性能提升）、多模型 Writer-Reviewer 闭环，并从零构建了完整的Agent Loop 执行引擎。应用场景涵盖求职工具链（8 大平台职位聚合→AI简历定制→公司文化分析）、内容创作平台、垂直领域智能推荐等，技术栈横跨Python/Flask、TypeScript/Node.js、React/Electron、Chrome Extension、C 语言高性能服务。  
 
+A portfolio of 26 AI applications spanning Skills,Agent runtime, multi-agent collaboration, MCP protocol integration, and LLM-powered content generation. Core architectural  achievements include 4-8 tier fallback for high availability (99%+), intelligent caching (50-70x speedup), multi-model Writer-Reviewer pipelines, and a from-scratch Agent Loop execution engine. Real-world applications cover a full job-seeking toolkit (8-platform aggregation → AI resume tailoring → company culture analysis), content creation  platforms, and vertical-domain AI recommendation systems, built across Python/Flask, TypeScript, React/Electron, Chrome Extension, and high-performance C services.
 
 ## 🔧 Tech Stack
 
