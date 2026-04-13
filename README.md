@@ -2,15 +2,15 @@
 
 ## 🎯 Introduction
 
-本项目集收录 20+ 个独立 AI 应用，围绕三条主线展开：
-.AI Agent 开发 — 从零实现 Agent Loop 执行引擎（simclaw）、多角色协作系统（mules, 707 文件）、14 个生产级 Claude Code Skills（4-8 级 Fallback, 99%+ 可用性）、MCP Protocol 社交媒体自动发文集成。
-.LLM 工程化 — Writer-Reviewer 多模型闭环（tailorCV）、智能缓存（50-70 倍提速）、成本优化（60-80% AI 调用节省）、Prompt 链设计等可复用架构模式。
-.多源数据自动化 — 求职工具链（8 大平台聚合→AI 简历定制→公司文化分析）、内容创作平台、中医食疗推荐、退休金测算等垂直场景应用。
+20+ 个独立 AI 应用，三条主线：
+.AI Agent — Agent Loop 执行引擎（simclaw）、多角色协作系统（mules）、14 个生产级 Skills（4-8 级 Fallback, 99%+ 可用性）、MCP 社交媒体发文、多窗口终端管理（multicc）。
+.LLM 工程化 — Writer-Reviewer 多模型闭环（tailorCV）、智能缓存 50-70x 提速、成本优化节省 60-80% 调用、Prompt 链编排。
+.垂直应用 — 求职工具链（8 平台聚合→简历定制→文化分析）、酒店比价（hotel）、内容创作、中医食疗、猫咪行为识别（KnowMeow）、退休金测算、Markdown 编辑器（MDEase）。
 
-This portfolio comprises 20+ independent AI applications, organized around three core themes:
-.AI Agent Development — A from-scratch Agent Loop execution engine (simclaw), a multi-role agent collaboration system (mules, 707 files), 14 production-grade Claude Code Skills with 4-8 tier fallback (99%+ availability), and MCP Protocol integration for automated social media publishing.
-.LLM Engineering — Reusable architectural patterns including a Writer-Reviewer multi-model pipeline (tailorCV), intelligent caching (50-70x speedup), cost optimization (60-80% API call reduction), and prompt chain design.
-.Multi-source Data Automation — A full job-seeking toolkit (8-platform aggregation → AI resume tailoring → company culture analysis), content creation platforms, TCM dietary recommendations, pension calculators, and other vertical-domain solutions.
+20+ independent AI applications across three tracks:
+.AI Agent — Agent Loop execution engine (simclaw), multi-role collaboration system (mules), 14 production-grade Skills with 4-8 tier fallback (99%+ availability), MCP social media publishing, multi-window terminal manager (multicc).
+.LLM Engineering — Writer-Reviewer multi-model pipeline (tailorCV), intelligent caching (50-70x speedup), cost optimization (60-80% call reduction), prompt chain orchestration.
+.Vertical Applications — Job-seeking toolkit (8-platform aggregation → resume tailoring → culture analysis), hotel comparison (hotel), content creation, TCM dietary recommendations, cat behavior recognition (KnowMeow), pension calculator, Markdown editor (MDEase).
 
 ## 🔧 Tech Stack
 
